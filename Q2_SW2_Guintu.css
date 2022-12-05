@@ -1,0 +1,29 @@
+img{
+	border-style: solid;
+	border-color: whitesmoke;
+	border-width: 6px;
+	border-radius: 60px;
+	opacity: 0.75;
+}
+.image:hover{
+	opacity: 1;
+}
+
+h1{
+	font-family: Arial;
+}
+
+
+
+body{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+body{
+	background-color: #2C3A47;
+	color: white;
+	text-align: center;
+    margin: 100px;
+
+
